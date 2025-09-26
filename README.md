@@ -1,5 +1,6 @@
 # CodeRecovery
-<color=red> basically changes c++ code to c# </color>
+
+basically changes c++ code to c#
 
 # examples
 
